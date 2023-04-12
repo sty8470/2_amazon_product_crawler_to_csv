@@ -6,5 +6,3 @@
 
 3. The local directory that you want to save those images to
 
-![image](https://user-images.githubusercontent.com/30963732/229433209-5e0fdd10-5b22-46e5-b248-75b162dd7412.png)
-
